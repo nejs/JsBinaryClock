@@ -1,0 +1,29 @@
+{
+  "name": "js-binary-clock",
+  "version": "1.0.0",
+  "description": "a binary clock for nejs hackathon countdown",
+  "main": "clock.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nejs/JsBinaryClock.git"
+  },
+  "keywords": [
+    "clock",
+    "binary",
+    "nejs",
+    "hackathon",
+    "johnny-five"
+  ],
+  "author": "Henri Cavalcante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nejs/JsBinaryClock/issues"
+  },
+  "homepage": "https://github.com/nejs/JsBinaryClock#readme",
+  "dependencies": {
+    "johnny-five": "^0.8.83"
+  }
+}
